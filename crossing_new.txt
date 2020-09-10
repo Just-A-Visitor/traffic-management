@@ -1,0 +1,500 @@
+[{
+	"crossingId" : 1,
+	"crossingLocation" : "Kanpur Central",
+	"crossingType" : "Pegasus",
+	"blockId" : 23,
+	"tracking" : [
+		{
+			"timestamp" : "10:12",
+			"vehicleCount" : 1
+		},
+		{
+			"timestamp" : "10:13",
+			"vehicleCount" : 6
+		},
+		{
+			"timestamp" : "10:14",
+			"vehicleCount" : 10
+		},
+		{
+			"timestamp" : "10:15",
+			"vehicleCount" : 5
+		},
+		{
+			"timestamp" : "10:16",
+			"vehicleCount" : 8
+		},
+		{
+			"timestamp" : "10:17",
+			"vehicleCount" : 2
+		},
+		{
+			"timestamp" : "10:18",
+			"vehicleCount" : 4
+		},
+		{
+			"timestamp" : "10:19",
+			"vehicleCount" : 2
+		},
+		{
+			"timestamp" : "10:20",
+			"vehicleCount" : 5
+		},
+		{
+			"timestamp" : "10:21",
+			"vehicleCount" : 4
+		}
+	],
+	"date" : "2019-04-19",
+	"pincode" : 208024
+},
+{
+	"crossingId" : 2,
+	"crossingLocation" : "Kalyanpur",
+	"crossingType" : "Toucan",
+	"blockId" : 22,
+	"tracking" : [
+		{
+			"timestamp" : "10:12",
+			"vehicleCount" : 10
+		},
+		{
+			"timestamp" : "10:13",
+			"vehicleCount" : 5
+		},
+		{
+			"timestamp" : "10:14",
+			"vehicleCount" : 4
+		},
+		{
+			"timestamp" : "10:15",
+			"vehicleCount" : 5
+		},
+		{
+			"timestamp" : "10:16",
+			"vehicleCount" : 7
+		},
+		{
+			"timestamp" : "10:17",
+			"vehicleCount" : 9
+		},
+		{
+			"timestamp" : "10:18",
+			"vehicleCount" : 4
+		},
+		{
+			"timestamp" : "10:19",
+			"vehicleCount" : 7
+		},
+		{
+			"timestamp" : "10:20",
+			"vehicleCount" : 8
+		},
+		{
+			"timestamp" : "10:21",
+			"vehicleCount" : 6
+		}
+	],
+	"date" : "2019-04-19",
+	"pincode" : 208016
+},
+{
+	"crossingId" : 3,
+	"crossingLocation" : "Rawatpur",
+	"crossingType" : "Zebra",
+	"blockId" : 26,
+	"tracking" : [
+		{
+			"timestamp" : "10:12",
+			"vehicleCount" : 4
+		},
+		{
+			"timestamp" : "10:13",
+			"vehicleCount" : 3
+		},
+		{
+			"timestamp" : "10:14",
+			"vehicleCount" : 10
+		},
+		{
+			"timestamp" : "10:15",
+			"vehicleCount" : 1
+		},
+		{
+			"timestamp" : "10:16",
+			"vehicleCount" : 5
+		},
+		{
+			"timestamp" : "10:17",
+			"vehicleCount" : 4
+		},
+		{
+			"timestamp" : "10:18",
+			"vehicleCount" : 4
+		},
+		{
+			"timestamp" : "10:19",
+			"vehicleCount" : 8
+		},
+		{
+			"timestamp" : "10:20",
+			"vehicleCount" : 5
+		},
+		{
+			"timestamp" : "10:21",
+			"vehicleCount" : 3
+		}
+	],
+	"date" : "2019-04-19",
+	"pincode" : 208020
+},
+{
+	"crossingId" : 4,
+	"crossingLocation" : "Rawatpur",
+	"crossingType" : "Zebra",
+	"blockId" : 22,
+	"tracking" : [
+		{
+			"timestamp" : "10:12",
+			"vehicleCount" : 3
+		},
+		{
+			"timestamp" : "10:13",
+			"vehicleCount" : 9
+		},
+		{
+			"timestamp" : "10:14",
+			"vehicleCount" : 4
+		},
+		{
+			"timestamp" : "10:15",
+			"vehicleCount" : 6
+		},
+		{
+			"timestamp" : "10:16",
+			"vehicleCount" : 9
+		},
+		{
+			"timestamp" : "10:17",
+			"vehicleCount" : 4
+		},
+		{
+			"timestamp" : "10:18",
+			"vehicleCount" : 7
+		},
+		{
+			"timestamp" : "10:19",
+			"vehicleCount" : 8
+		},
+		{
+			"timestamp" : "10:20",
+			"vehicleCount" : 5
+		},
+		{
+			"timestamp" : "10:21",
+			"vehicleCount" : 6
+		}
+	],
+	"date" : "2019-04-19",
+	"pincode" : 208020
+},
+{
+	"crossingId" : 5,
+	"crossingLocation" : "Kalyanpur",
+	"crossingType" : "Puffin",
+	"blockId" : 20,
+	"tracking" : [
+		{
+			"timestamp" : "10:12",
+			"vehicleCount" : 1
+		},
+		{
+			"timestamp" : "10:13",
+			"vehicleCount" : 4
+		},
+		{
+			"timestamp" : "10:14",
+			"vehicleCount" : 5
+		},
+		{
+			"timestamp" : "10:15",
+			"vehicleCount" : 5
+		},
+		{
+			"timestamp" : "10:16",
+			"vehicleCount" : 5
+		},
+		{
+			"timestamp" : "10:17",
+			"vehicleCount" : 5
+		},
+		{
+			"timestamp" : "10:18",
+			"vehicleCount" : 11
+		},
+		{
+			"timestamp" : "10:19",
+			"vehicleCount" : 14
+		},
+		{
+			"timestamp" : "10:20",
+			"vehicleCount" : 5
+		},
+		{
+			"timestamp" : "10:21",
+			"vehicleCount" : 3
+		}
+	],
+	"date" : "2019-04-19",
+	"pincode" : 208016
+},
+{
+	"crossingId" : 6,
+	"crossingLocation" : "Kalyanpur",
+	"crossingType" : "Pelican",
+	"blockId" : 28,
+	"tracking" : [
+		{
+			"timestamp" : "10:12",
+			"vehicleCount" : 7
+		},
+		{
+			"timestamp" : "10:13",
+			"vehicleCount" : 3
+		},
+		{
+			"timestamp" : "10:14",
+			"vehicleCount" : 3
+		},
+		{
+			"timestamp" : "10:15",
+			"vehicleCount" : 3
+		},
+		{
+			"timestamp" : "10:16",
+			"vehicleCount" : 7
+		},
+		{
+			"timestamp" : "10:17",
+			"vehicleCount" : 6
+		},
+		{
+			"timestamp" : "10:18",
+			"vehicleCount" : 5
+		},
+		{
+			"timestamp" : "10:19",
+			"vehicleCount" : 4
+		},
+		{
+			"timestamp" : "10:20",
+			"vehicleCount" : 7
+		},
+		{
+			"timestamp" : "10:21",
+			"vehicleCount" : 1
+		}
+	],
+	"date" : "2019-04-19",
+	"pincode" : 208016
+},
+{
+	"crossingId" : 7,
+	"crossingLocation" : "Kanpur Central",
+	"crossingType" : "Pelican",
+	"blockId" : 30,
+	"tracking" : [
+		{
+			"timestamp" : "10:12",
+			"vehicleCount" : 9
+		},
+		{
+			"timestamp" : "10:13",
+			"vehicleCount" : 1
+		},
+		{
+			"timestamp" : "10:14",
+			"vehicleCount" : 8
+		},
+		{
+			"timestamp" : "10:15",
+			"vehicleCount" : 4
+		},
+		{
+			"timestamp" : "10:16",
+			"vehicleCount" : 2
+		},
+		{
+			"timestamp" : "10:17",
+			"vehicleCount" : 4
+		},
+		{
+			"timestamp" : "10:18",
+			"vehicleCount" : 4
+		},
+		{
+			"timestamp" : "10:19",
+			"vehicleCount" : 5
+		},
+		{
+			"timestamp" : "10:20",
+			"vehicleCount" : 2
+		},
+		{
+			"timestamp" : "10:21",
+			"vehicleCount" : 3
+		}
+	],
+	"date" : "2019-04-19",
+	"pincode" : 208024
+},
+{
+	"crossingId" : 8,
+	"crossingLocation" : "Kalyanpur",
+	"crossingType" : 3,
+	"blockId" : 22,
+	"tracking" : [
+		{
+			"timestamp" : "10:12",
+			"vehicleCount" : 10
+		},
+		{
+			"timestamp" : "10:13",
+			"vehicleCount" : 3
+		},
+		{
+			"timestamp" : "10:14",
+			"vehicleCount" : 8
+		},
+		{
+			"timestamp" : "10:15",
+			"vehicleCount" : 1
+		},
+		{
+			"timestamp" : "10:16",
+			"vehicleCount" : 2
+		},
+		{
+			"timestamp" : "10:17",
+			"vehicleCount" : 6
+		},
+		{
+			"timestamp" : "10:18",
+			"vehicleCount" : 3
+		},
+		{
+			"timestamp" : "10:19",
+			"vehicleCount" : 2
+		},
+		{
+			"timestamp" : "10:20",
+			"vehicleCount" : 4
+		},
+		{
+			"timestamp" : "10:21",
+			"vehicleCount" : 2
+		}
+	],
+	"date" : "2019-04-19",
+	"pincode" : 208016
+},
+{
+	"crossingId" : 9,
+	"crossingLocation" : "Kanpur Central",
+	"crossingType" : "Zebra",
+	"blockId" : 29,
+	"tracking" : [
+		{
+			"timestamp" : "10:12",
+			"vehicleCount" : 5
+		},
+		{
+			"timestamp" : "10:13",
+			"vehicleCount" : 2
+		},
+		{
+			"timestamp" : "10:14",
+			"vehicleCount" : 3
+		},
+		{
+			"timestamp" : "10:15",
+			"vehicleCount" : 4
+		},
+		{
+			"timestamp" : "10:16",
+			"vehicleCount" : 7
+		},
+		{
+			"timestamp" : "10:17",
+			"vehicleCount" : 8
+		},
+		{
+			"timestamp" : "10:18",
+			"vehicleCount" : 7
+		},
+		{
+			"timestamp" : "10:19",
+			"vehicleCount" : 5
+		},
+		{
+			"timestamp" : "10:20",
+			"vehicleCount" : 4
+		},
+		{
+			"timestamp" : "10:21",
+			"vehicleCount" : 4
+		}
+	],
+	"date" : "2019-04-19",
+	"pincode" : 208024
+},
+{
+	"crossingId" : 10,
+	"crossingLocation" : "Rawatpur",
+	"crossingType" : "Puffin",
+	"blockId" : 28,
+	"tracking" : [
+		{
+			"timestamp" : "10:12",
+			"vehicleCount" : 9
+		},
+		{
+			"timestamp" : "10:13",
+			"vehicleCount" : 10
+		},
+		{
+			"timestamp" : "10:14",
+			"vehicleCount" : 8
+		},
+		{
+			"timestamp" : "10:15",
+			"vehicleCount" : 4
+		},
+		{
+			"timestamp" : "10:16",
+			"vehicleCount" : 1
+		},
+		{
+			"timestamp" : "10:17",
+			"vehicleCount" : 9
+		},
+		{
+			"timestamp" : "10:18",
+			"vehicleCount" : 11
+		},
+		{
+			"timestamp" : "10:19",
+			"vehicleCount" : 8
+		},
+		{
+			"timestamp" : "10:20",
+			"vehicleCount" : 7
+		},
+		{
+			"timestamp" : "10:21",
+			"vehicleCount" : 9
+		}
+	],
+	"date" : "2019-04-19",
+	"pincode" : 208020
+}]

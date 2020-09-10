@@ -1,0 +1,101 @@
+
+<mat-card>
+    <p align="center"> Log a Crime</p>
+
+    <mat-form-field>
+      <input matInput name="personId" placeholder="Person Id" [formControl]="personId">
+    </mat-form-field>
+
+    <mat-form-field>
+      <input matInput name="vehicleNo" placeholder="Vehicle Number" [formControl]="vehicleNo">
+    </mat-form-field>
+
+    <mat-form-field>
+      <input matInput name="date" placeholder="Date" [formControl]="date">
+    </mat-form-field>
+
+    <mat-form-field>
+      <input matInput name="policeId" placeholder="Police Id" [formControl]="policeId">
+    </mat-form-field>
+
+    <mat-form-field>
+      <input matInput name="crimeCode" placeholder="Crime Code" [formControl]="crimeCode">
+    </mat-form-field>
+
+    <mat-form-field>
+      <input matInput name="licenseNo" placeholder="license Number" [formControl]="licenseNo">
+    </mat-form-field>
+
+    <mat-form-field>
+      <input matInput name="time" placeholder="Time" [formControl]="time">
+    </mat-form-field>
+
+     <mat-form-field>
+       <input matInput name="pincode" placeholder="pincode of place" [formControl]="pincode">
+     </mat-form-field>
+
+     <mat-form-field>
+       <input matInput name="injuries" placeholder="Injuries" [formControl]="injuries">
+     </mat-form-field>
+
+      <mat-form-field>
+        <input matInput name="roadType" placeholder="Road Details" [formControl]="roadType">
+      </mat-form-field>
+
+      <mat-form-field>
+       <input matInput name="weatherStatus" placeholder="Weather Status" [formControl]="weatherStatus">
+      </mat-form-field>
+    
+      <mat-form-field>
+        <input matInput name="report" placeholder="Details" [formControl]="report">
+      </mat-form-field>
+
+      <mat-form-field>
+       <input matInput name="area" placeholder="Area" [formControl]="area">
+      </mat-form-field>
+    
+      <mat-form-field>
+        <input matInput name="violationNo" placeholder="Violation Number" [formControl]="violationNo">
+       </mat-form-field>
+       
+    <div class="example-button-row">
+      <button mat-raised-button color="primary" (click)="addBusiness()">Submit</button>
+    </div>
+
+</mat-card>
+<br><br>
+
+<div fxLayout="row"  fxLayoutGap="12px"  [style.margin-top]="'12px'">
+  <mat-card>
+      <p align="center"> Query1</p>
+        <mat-form-field>
+          <input matInput name="personDetail" placeholder="Enter Person Aadhar" [formControl]="personDetail">
+        </mat-form-field>
+        <button mat-raised-button color="primary" (click)="q1()">Detail of a Person</button>
+  </mat-card>
+  <mat-card>
+        <p align="center"> Query2</p>
+        <button mat-raised-button color="primary" (click)="q2()">Top 3 persons with max violation</button><br>
+        <p align="center"> Query3</p>
+
+        <button mat-raised-button color="primary" (click)="q3()">Top 3 areas with max accident</button>
+
+        <br>
+        <p align="center"> Query4</p>
+
+        <button mat-raised-button color="primary" (click)="q4()">insurence provider whose customers are accident-prone </button>
+
+        <br>
+        <p align="center"> Query5</p>
+
+        <button mat-raised-button color="primary" (click)="q5()"> Ominous hours </button>
+ 
+        <br>
+        <p align="center"> Query6</p>
+
+        <button mat-raised-button color="primary" (click)="q6()"> Most dense crossings in last 5 minutes </button>
+
+
+
+  </mat-card>
+</div>

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Tammy Witt",
+    "stationId": 1,
+    "policeId": 585,
+    "contactNo": "+91 (963) 432-3694"
+  },
+  {
+    "name": "Bruce Middleton",
+    "stationId": 1,
+    "policeId": 561,
+    "contactNo": "+91 (962) 491-3247"
+  },
+  {
+    "name": "Mills Shaffer",
+    "stationId": 3,
+    "policeId": 426,
+    "contactNo": "+91 (829) 440-3447"
+  },
+  {
+    "name": "Moreno Morrison",
+    "stationId": 1,
+    "policeId": 525,
+    "contactNo": "+91 (860) 401-3163"
+  },
+  {
+    "name": "Padilla Duffy",
+    "stationId": 2,
+    "policeId": 566,
+    "contactNo": "+91 (981) 575-3591"
+  },
+  {
+    "name": "Sloan Kaufman",
+    "stationId": 3,
+    "policeId": 649,
+    "contactNo": "+91 (999) 472-3657"
+  },
+  {
+    "name": "Roth Hensley",
+    "stationId": 3,
+    "policeId": 576,
+    "contactNo": "+91 (837) 574-2401"
+  },
+  {
+    "name": "Reed Phillips",
+    "stationId": 2,
+    "policeId": 586,
+    "contactNo": "+91 (933) 442-2353"
+  },
+  {
+    "name": "Ayers Shelton",
+    "stationId": 2,
+    "policeId": 421,
+    "contactNo": "+91 (888) 403-2782"
+  },
+  {
+    "name": "Pacheco Jefferson",
+    "stationId": 1,
+    "policeId": 656,
+    "contactNo": "+91 (897) 431-3856"
+  }
+]

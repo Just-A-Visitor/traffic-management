@@ -1,0 +1,83 @@
+
+[
+  {
+    "manufacturingId": 1005758,
+    "manufacturerName": "Hero",
+    "vehicleType": "Bike",
+    "vehicleModel": "LXM",
+    "vehicleNo": 30177,
+    "stateRegistered" : "Bihar"
+  },
+  {
+    "manufacturingId": 1006813,
+    "manufacturerName": "Suzuki",
+    "vehicleType": "Car",
+    "vehicleModel": "Z",
+    "vehicleNo": 11384,
+    "StateRegistered" : "Goa"
+  },
+  {
+    "manufacturingId": 1001830,
+    "manufacturerName": "BMW",
+    "vehicleType": "Car",
+    "vehicleModel": "LXI",
+    "vehicleNo": 10481,
+    "StateRegistered" : "Bihar"
+  },
+  {
+    "manufacturingId": 1005733,
+    "manufacturerName": "Hyundai",
+    "vehicleType": "Car",
+    "vehicleModel": "ZT",
+    "vehicleNo": 75531,
+    "StateRegistered" : "Goa"
+  },
+  {
+    "manufacturingId": 1004351,
+    "manufacturerName": "BMW",
+    "vehicleType": "Car",
+    "vehicleModel": "Z",
+    "vehicleNo": 96169,
+    "StateRegistered" : "Punjab"
+  },
+  {
+    "manufacturingId": 1009273,
+    "manufacturerName": "Mercedes",
+    "vehicleType": "Bike",
+    "vehicleModel": "LXM",
+    "vehicleNo": 43627,
+    "StateRegistered" : "Punjab"
+  },
+  {
+    "manufacturingId": 1000540,
+    "manufacturerName": "BMW",
+    "vehicleType": "Auto",
+    "vehicleModel": "Vikram",
+    "vehicleNo": 19585,
+    "StateRegistered" : "Bihar"
+  },
+  {
+    "manufacturingId": 1009269,
+    "manufacturerName": "Mercedes",
+    "vehicleType": "Truck",
+    "vehicleModel": "Ashok",
+    "vehicleNo": 27126,
+    "StateRegistered" : "Goa"
+  },
+  {
+    "manufacturingId": 1005721,
+    "manufacturerName": "BMW",
+    "vehicleType": "Auto",
+    "vehicleModel": "Z",
+    "vehicleNo": 32763,
+    "StateRegistered" : "Goa"
+  },
+  {
+    "manufacturingId": 1002588,
+    "manufacturerName": "Honda",
+    "vehicleType": "Auto",
+    "vehicleModel": "5G",
+    "vehicleNo": 95519,
+    "StateRegistered" : "Punjab"
+  }
+] 

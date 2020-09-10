@@ -1,0 +1,72 @@
+[
+  {
+    "stationId": 1,
+    "stationName": "Kalyanpur",
+    "stationInchargeId": 10,
+    "pinCode" : 208016,
+    "contactNo": "+91 (911) 462-2683"
+  },
+  {
+    "stationId": 1,
+    "stationName": "Kalyanpur",
+    "stationInchargeId": 16,
+    "pinCode" : 208016,
+    "contactNo": "+91 (905) 414-2245"
+  },
+  {
+    "stationId": 2,
+    "stationName": "Rawatpur",
+    "stationInchargeId": 6,
+    "pinCode" : 208020, 
+    "contactNo": "+91 (988) 475-3698"
+  },
+  {
+    "stationId": 2,
+    "stationName": "Rawatpur",
+    "stationInchargeId": 11,
+    "pinCode" : 208020, 
+    "contactNo": "+91 (824) 538-3172"
+  },
+  {
+    "stationId": 3,
+    "stationName": "Kanpur Central",
+    "stationInchargeId": 5,
+    "pinCode" : 208024, 
+    "contactNo": "+91 (842) 471-2682"
+  },
+  {
+    "stationId": 1,
+    "stationName": "Kalyanpur",
+    "stationInchargeId": 16,
+    "pinCode" : 208016, 
+    "contactNo": "+91 (931) 567-2766"
+  },
+  {
+    "stationId": 3,
+    "stationName": "Kanpur Central",
+    "stationInchargeId": 0,
+    "pinCode" : 208024, 
+    "contactNo": "+91 (881) 417-2688"
+  },
+  {
+    "stationId": 3,
+    "stationName": "Kanpur Central",
+    "stationInchargeId": 18,
+    "pinCode" : 208024, 
+    "contactNo": "+91 (839) 457-2074"
+  },
+  {
+    "stationId": 3,
+    "stationName": "Kanpur Central",
+    "stationInchargeId": 12,
+    "pinCode" : 208024, 
+    "contactNo": "+91 (978) 414-3080"
+  },
+  {
+    "stationId": 2,
+    "stationName": "Rawatpur",
+    "stationInchargeId": 13,
+    "pinCode" : 208020, 
+    "contactNo": "+91 (997) 402-2424"
+  }
+]
